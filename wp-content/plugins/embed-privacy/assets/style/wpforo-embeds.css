@@ -1,0 +1,54 @@
+#wpforo #wpforo-wrap .wpf-embed * {
+  padding: initial !important;
+  margin: initial !important;
+  height: auto !important;
+  width: auto !important;
+  max-width: auto !important;
+  max-height: auto !important;
+}
+#wpforo #wpforo-wrap .wpf-embed .embed-privacy-container {
+  height: 100% !important;
+  position: relative !important;
+  width: 100% !important;
+}
+#wpforo #wpforo-wrap .wpf-embed .embed-privacy-container a {
+  color: #ddd;
+}
+#wpforo #wpforo-wrap .wpf-embed .embed-privacy-container a:active, #wpforo #wpforo-wrap .wpf-embed .embed-privacy-container a:focus, #wpforo #wpforo-wrap .wpf-embed .embed-privacy-container a:hover {
+  color: #fff !important;
+}
+#wpforo #wpforo-wrap .wpf-embed .embed-privacy-content {
+  height: 100% !important;
+  width: 100% !important;
+}
+#wpforo #wpforo-wrap .wpf-embed .embed-privacy-content > * {
+  height: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100% !important;
+}
+#wpforo #wpforo-wrap .wpf-embed .embed-privacy-inner {
+  vertical-align: middle;
+}
+#wpforo #wpforo-wrap .wpf-embed .embed-privacy-logo {
+  height: 48px !important;
+  margin-bottom: 30px !important;
+}
+#wpforo #wpforo-wrap .wpf-embed .embed-privacy-overlay {
+  color: #ddd;
+  padding: 20px !important;
+  height: 100% !important;
+  width: 100% !important;
+}
+#wpforo #wpforo-wrap .wpf-embed .screen-reader-text {
+  height: 1px !important;
+  margin: -1px !important;
+  position: absolute !important;
+  width: 1px !important;
+}
+#wpforo #wpforo-wrap .wpf-embed .screen-reader-text:focus {
+  color: #444 !important;
+  height: auto !important;
+  padding: 15px 23px 14px !important;
+  width: auto !important;
+}
